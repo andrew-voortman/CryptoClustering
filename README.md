@@ -1,6 +1,5 @@
 # CryptoClustering
 
-CryptoClustering 
 
 ## Description:   
 
